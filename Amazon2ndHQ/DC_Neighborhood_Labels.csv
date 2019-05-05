@@ -1,0 +1,231 @@
+﻿X,Y,OBJECTID,GIS_ID,NAME,WEB_URL,LABEL_NAME,DATELASTMODIFIED
+-77.007767410206597,38.92577558252443,1,nhood_132,Stronghold,http://op.dc.gov,Stronghold,2003-04-10T00:00:00.000Z
+-76.972367090815325,38.90133625806893,2,nhood_134,Langston,http://op.dc.gov,Langston,2003-04-10T00:00:00.000Z
+-77.014233693346512,38.895428165429735,3,nhood_137,Downtown East,http://op.dc.gov,"Downtown 
+East",2003-04-10T00:00:00.000Z
+-77.041093811687531,38.986789560996129,4,nhood_029,Colonial Village,http://op.dc.gov,"Colonial 
+Village",2003-04-10T00:00:00.000Z
+-77.032125710973034,38.982980051936352,5,nhood_109,Shepherd Park,http://op.dc.gov,"Shepherd 
+Park",2003-04-10T00:00:00.000Z
+-77.006445051866265,38.965069729161492,6,nhood_074,Lamond Riggs,http://op.dc.gov,"Lamond 
+Riggs",2003-04-10T00:00:00.000Z
+-77.024017328166977,38.943039128222935,7,nhood_102,Petworth,http://op.dc.gov,Petworth,2003-04-10T00:00:00.000Z
+-77.024871387642278,38.955747648001051,8,nhood_015,Brightwood Park,http://op.dc.gov,"Brightwood 
+Park",2003-04-10T00:00:00.000Z
+-77.026874312899807,38.966379339718152,9,nhood_014,Brightwood,http://op.dc.gov,Brightwood,2003-04-10T00:00:00.000Z
+-77.060174478301718,38.975433434861202,10,nhood_006,Barnaby Woods,http://op.dc.gov,"Barnaby 
+Woods",2003-04-10T00:00:00.000Z
+-76.996590570277107,38.956070016813669,11,nhood_106,Queens Chapel,http://op.dc.gov,"Queens 
+Chapel",2003-04-10T00:00:00.000Z
+-76.993666292425559,38.94564415929117,12,nhood_097,North Michigan Park,http://op.dc.gov,"North 
+Michigan 
+Park",2003-04-10T00:00:00.000Z
+-76.995761501733924,38.938248761904866,13,nhood_121,University Heights,http://op.dc.gov,"University 
+Heights",2003-04-10T00:00:00.000Z
+-76.984413587603044,38.931404394992427,14,nhood_016,Brookland,http://op.dc.gov,Brookland,2003-04-10T00:00:00.000Z
+-76.971702981587214,38.860266958825555,15,nhood_138,Skyland,http://op.dc.gov,Skyland,2003-04-10T00:00:00.000Z
+-76.989709955516346,38.887210697169408,16,nhood_135,Lincoln Park,http://op.dc.gov,Lincoln Park,2003-04-10T00:00:00.000Z
+-77.033558563920053,38.950314551253257,17,nhood_136,16th Street Heights,http://op.dc.gov,"16th 
+Street 
+Heights",2003-04-10T00:00:00.000Z
+-76.963845709734443,38.919756837216653,18,nhood_057,Gateway,http://op.dc.gov,Gateway,2003-04-10T00:00:00.000Z
+-76.987035217412824,38.918977276502183,19,nhood_013,Brentwood,http://op.dc.gov,Brentwood,2003-04-10T00:00:00.000Z
+-77.000425426258559,38.915201837474349,20,nhood_040,Eckington,http://op.dc.gov,Eckington,2003-04-10T00:00:00.000Z
+-76.991626886090572,38.910389476020974,21,nhood_069,Ivy City,http://op.dc.gov,"Ivy 
+City",2003-04-10T00:00:00.000Z
+-76.972489748178972,38.914859756260419,22,nhood_005,Arboretum,http://op.dc.gov,Arboretum,2003-04-10T00:00:00.000Z
+-76.977849790430014,38.902465255609776,23,nhood_024,Carver,http://op.dc.gov,Carver,2003-04-10T00:00:00.000Z
+-77.011275347956641,38.902532159585157,24,nhood_095,North Capitol Street,http://op.dc.gov,"North 
+Capitol 
+Street",2003-04-10T00:00:00.000Z
+-77.029174517852098,38.900526145614251,25,nhood_036,Downtown,http://op.dc.gov,Downtown,2003-04-10T00:00:00.000Z
+-77.052436265362445,38.899021712076319,26,nhood_044,Foggy Bottom,http://op.dc.gov,"Foggy 
+Bottom",2003-04-10T00:00:00.000Z
+-77.051882465931754,38.905550337820522,27,nhood_125,West End,http://op.dc.gov,"West 
+End",2003-04-10T00:00:00.000Z
+-77.064795604366424,38.909555805689578,28,nhood_058,Georgetown,http://op.dc.gov,Georgetown,2003-04-10T00:00:00.000Z
+-77.07456576076558,38.915002994740469,29,nhood_017,Burleith/Hillandale,http://op.dc.gov,"Burleith/
+Hillandale",2003-04-10T00:00:00.000Z
+-77.016902958486369,38.877908360755185,30,nhood_113,Southwest/Waterfront,http://op.dc.gov,"Southwest/
+Waterfront",2003-04-10T00:00:00.000Z
+-77.011424545826543,38.868300119004836,31,nhood_019,Buzzard Point,http://op.dc.gov,"Buzzard 
+Point",2003-04-10T00:00:00.000Z
+-77.066477612865214,38.963146467074651,32,nhood_027,Chevy Chase,http://op.dc.gov,"Chevy 
+Chase",2003-04-10T00:00:00.000Z
+-77.083854407259324,38.956906785038115,33,nhood_054,Friendship Heights,http://op.dc.gov,"Friendship 
+Heights",2003-04-10T00:00:00.000Z
+-77.080163089814491,38.94712740265178,34,nhood_117,Tenleytown,http://op.dc.gov,Tenleytown,2003-04-10T00:00:00.000Z
+-77.090249571735171,38.947611636813086,35,nhood_002,American University Park,http://op.dc.gov,"American 
+University 
+Park",2003-04-10T00:00:00.000Z
+-77.079860427730182,38.934272415340921,36,nhood_025,Cathedral Heights,http://op.dc.gov,"Cathedral 
+Heights",2003-04-10T00:00:00.000Z
+-77.075295723881339,38.936151246189901,37,nhood_085,McLean Gardens,http://op.dc.gov,"McLean 
+Gardens",2003-04-10T00:00:00.000Z
+-77.057482949727927,38.927265323965607,38,nhood_128,Woodley Park,http://op.dc.gov,"Woodley 
+Park",2003-04-10T00:00:00.000Z
+-77.088324911384078,38.929980815374115,39,nhood_124,Wesley Heights,http://op.dc.gov,"Wesley 
+Heights",2003-04-10T00:00:00.000Z
+-77.092766745425649,38.92048649791375,40,nhood_052,Foxhall Crescents,http://op.dc.gov,"Foxhall 
+Crescents",2003-04-10T00:00:00.000Z
+-77.103520376489797,38.929807667891815,41,nhood_099,Palisades,http://op.dc.gov,Palisades,2003-04-10T00:00:00.000Z
+-77.051194708374098,38.915660438180694,42,nhood_070,Kalorama Heights,http://op.dc.gov,"Kalorama 
+Heights",2003-04-10T00:00:00.000Z
+-77.042391106878881,38.920472198513707,43,nhood_001,Adams Morgan,http://op.dc.gov,"Adams 
+Morgan",2003-04-10T00:00:00.000Z
+-77.040983705458089,38.912128102421264,44,nhood_037,Dupont Circle,http://op.dc.gov,"Dupont 
+Circle",2003-04-10T00:00:00.000Z
+-77.042693544358826,38.925248830293398,45,nhood_076,Lanier Heights,http://op.dc.gov,"Lanier 
+Heights",2003-04-10T00:00:00.000Z
+-77.040655887411958,38.931741491975394,46,nhood_088,Mount Pleasant,http://op.dc.gov,"Mount 
+Pleasant",2003-04-10T00:00:00.000Z
+-77.02144426862472,38.934604257019771,47,nhood_100,Park View,http://op.dc.gov,"Park 
+View",2003-04-10T00:00:00.000Z
+-77.017604550695552,38.916831595698561,48,nhood_077,Le Droit Park,http://op.dc.gov,"Le Droit 
+Park",2003-04-10T00:00:00.000Z
+-77.01961026604755,38.922354816697137,49,nhood_068,Howard University,http://op.dc.gov,"Howard 
+University",2003-04-10T00:00:00.000Z
+-76.99973389187906,38.902374790483123,50,nhood_093,Near Northeast,http://op.dc.gov,"Near 
+Northeast",2003-04-10T00:00:00.000Z
+-76.994241715315795,38.894897818450062,51,nhood_115,Stanton Park,http://op.dc.gov,"Stanton 
+Park",2003-04-10T00:00:00.000Z
+-76.978436575883421,38.894886567367251,52,nhood_072,Kingman Park,http://op.dc.gov,"Kingman 
+Park",2003-04-10T00:00:00.000Z
+-76.979950662362171,38.883330003643742,53,nhood_079,Hill East,http://op.dc.gov,Hill East,2003-04-10T00:00:00.000Z
+-76.998461646256658,38.874268413431423,54,nhood_091,Navy Yard,http://op.dc.gov,"Navy 
+Yard",2003-04-10T00:00:00.000Z
+-76.951294593040757,38.90111564359632,55,nhood_084,Mayfair,http://op.dc.gov,Mayfair,2003-04-10T00:00:00.000Z
+-76.95768065730482,38.893704547244937,56,nhood_108,River Terrace,http://op.dc.gov,"River 
+Terrace",2003-04-10T00:00:00.000Z
+-76.921802469164618,38.900242988236464,57,nhood_018,Burrville,http://op.dc.gov,Burrville,2003-04-10T00:00:00.000Z
+-76.917389427750734,38.895450818585843,58,nhood_090,NE Boundary,http://op.dc.gov,"NE 
+Boundary",2003-04-10T00:00:00.000Z
+-76.948883625965081,38.891884898315304,59,nhood_009,Benning,http://op.dc.gov,Benning,2003-04-10T00:00:00.000Z
+-76.920638436664632,38.892706500203779,60,nhood_061,Grant Park,http://op.dc.gov,"Grant 
+Park",2003-04-10T00:00:00.000Z
+-76.942276761323072,38.897034546690968,61,nhood_026,Central NE,http://op.dc.gov,"Central 
+NE",2003-04-10T00:00:00.000Z
+-76.931096555795307,38.895805171270226,62,nhood_078,Lincoln Heights,http://op.dc.gov,"Lincoln 
+Heights",2003-04-10T00:00:00.000Z
+-76.927085902729857,38.889978450529782,63,nhood_022,Capitol View,http://op.dc.gov,"Capitol 
+View",2003-04-10T00:00:00.000Z
+-76.929121715844303,38.884371942622671,64,nhood_082,Marshall Heights,http://op.dc.gov,"Marshall 
+Heights",2003-04-10T00:00:00.000Z
+-76.94466983618473,38.868901187358929,65,nhood_046,Fort Davis Park,http://op.dc.gov,"Fort 
+Davis 
+Park",2003-04-10T00:00:00.000Z
+-76.951630062918611,38.863452674107684,66,nhood_042,Fairfax Village,http://op.dc.gov,"Fairfax 
+Village",2003-04-10T00:00:00.000Z
+-77.041133855326663,38.902951847572844,67,nhood_032,Golden Triangle,http://op.dc.gov,Golden Triangle,2007-03-02T00:00:00.000Z
+-76.960688251234373,38.861794493982188,68,nhood_064,Hillcrest,http://op.dc.gov,Hillcrest,2003-04-10T00:00:00.000Z
+-76.998477484850639,38.883620756200493,69,nhood_021,Capitol Hill,http://op.dc.gov,"Capitol 
+Hill",2003-04-10T00:00:00.000Z
+-76.965803643665595,38.86933565244977,70,nhood_107,Randle Highlands,http://op.dc.gov,"Randle 
+Highlands",2003-04-10T00:00:00.000Z
+-76.997280505622143,38.859255263491534,71,nhood_007,Barry Farm,http://op.dc.gov,"Barry 
+Farm",2003-04-10T00:00:00.000Z
+-77.030586031508975,38.928008289727074,72,nhood_030,Columbia Heights,http://op.dc.gov,"Columbia 
+Heights",2003-04-10T00:00:00.000Z
+-77.066106389939364,38.943390584989061,73,nhood_122,Van Ness,http://op.dc.gov,Van Ness,2003-04-10T00:00:00.000Z
+-77.09067742028715,38.909637127714568,74,nhood_059,Georgetown Reservoir,http://op.dc.gov,"Georgetown 
+Reservoir",2003-04-10T00:00:00.000Z
+-77.00480354473595,38.941079187574466,75,nhood_104,Pleasant Hill,http://op.dc.gov,"Pleasant 
+Hill",2003-04-10T00:00:00.000Z
+-76.932800887336029,38.904107274131917,76,nhood_034,Deanwood,http://op.dc.gov,Deanwood,2003-04-10T00:00:00.000Z
+-76.960180925426187,38.884787507231195,77,nhood_062,Greenway,http://op.dc.gov,Greenway,2003-04-10T00:00:00.000Z
+-76.963046027066653,38.856724428019604,78,nhood_092,Naylor Gardens,http://op.dc.gov,"Naylor 
+Gardens",2003-04-10T00:00:00.000Z
+-76.990561023624863,38.858423356781202,79,nhood_065,Hillsdale,http://op.dc.gov,Hillsdale,2003-04-10T00:00:00.000Z
+-77.020135266724751,38.899151198681949,80,nhood_131,Chinatown,http://op.dc.gov,Chinatown,2003-04-10T00:00:00.000Z
+-76.965043115663676,38.923985465496671,81,nhood_133,South Central,http://op.dc.gov,"South 
+Central",2003-04-10T00:00:00.000Z
+-77.040876650399426,38.991764979167257,82,nhood_098,North Portal Estates,http://op.dc.gov,"North 
+Portal 
+Estates",2003-04-10T00:00:00.000Z
+-77.021558299338253,38.97646159454483,83,nhood_116,Takoma,http://op.dc.gov,Takoma,2003-04-10T00:00:00.000Z
+-77.041096891085004,38.943327112246259,84,nhood_033,Crestwood,http://op.dc.gov,Crestwood,2003-04-10T00:00:00.000Z
+-77.012657120514987,38.962061644341119,85,nhood_081,Manor Park,http://op.dc.gov,"Manor 
+Park",2003-04-10T00:00:00.000Z
+-77.055934451596698,38.980882564337627,86,nhood_063,Hawthorne,http://op.dc.gov,Hawthorne,2003-04-10T00:00:00.000Z
+-76.98377195796877,38.94693414169425,87,nhood_086,Michigan Park,http://op.dc.gov,"Michigan 
+Park",2003-04-10T00:00:00.000Z
+-76.968639531242061,38.934021032493206,88,nhood_129,Woodridge,http://op.dc.gov,Woodridge,2003-04-10T00:00:00.000Z
+-77.000739295085467,38.925198873104527,89,nhood_041,Edgewood,http://op.dc.gov,Edgewood,2003-04-10T00:00:00.000Z
+-77.011159336439874,38.918226429529625,90,nhood_012,Bloomingdale,http://op.dc.gov,Bloomingdale,2003-04-10T00:00:00.000Z
+-76.954748782725758,38.923609807069717,91,nhood_048,Fort Lincoln,http://op.dc.gov,"Fort 
+Lincoln",2003-04-10T00:00:00.000Z
+-76.974689458239268,38.924016958336402,92,nhood_075,Langdon,http://op.dc.gov,Langdon,2003-04-10T00:00:00.000Z
+-77.012394156425941,38.909667306156784,93,nhood_119,Truxton Circle,http://op.dc.gov,"Truxton 
+Circle",2003-04-10T00:00:00.000Z
+-76.982736990456672,38.908462454792222,94,nhood_118,Trinidad,http://op.dc.gov,Trinidad,2003-04-10T00:00:00.000Z
+-77.019884673524786,38.903547909956004,95,nhood_089,Mount Vernon Square,http://op.dc.gov,"Mount 
+Vernon 
+Square",2003-04-10T00:00:00.000Z
+-77.047928443480814,38.899627737516965,96,nhood_055,George Washington University,http://op.dc.gov,"George 
+Washington 
+University",2003-04-10T00:00:00.000Z
+-77.037334475305187,38.884463058461549,97,nhood_087,Monumental Core,http://op.dc.gov,"Monumental 
+Core",2003-04-10T00:00:00.000Z
+-77.020316871233632,38.885016569165629,98,nhood_112,Southwest Employment Area,http://op.dc.gov,"Southwest 
+Employment 
+Area",2003-04-10T00:00:00.000Z
+-77.016438104547689,38.866943321918733,99,nhood_049,Fort McNair,http://op.dc.gov,"Fort 
+McNair",2003-04-10T00:00:00.000Z
+-77.071773563620297,38.94787867243101,100,nhood_096,North Cleveland Park,http://op.dc.gov,"North 
+Cleveland 
+Park",2003-04-10T00:00:00.000Z
+-77.096724239818045,38.939311383789615,101,nhood_114,Spring Valley,http://op.dc.gov,"Spring 
+Valley",2003-04-10T00:00:00.000Z
+-77.064401738106795,38.936097873837006,102,nhood_028,Cleveland Park,http://op.dc.gov,"Cleveland 
+Park",2003-04-10T00:00:00.000Z
+-77.075737518987722,38.921530822455864,103,nhood_060,Glover Park,http://op.dc.gov,"Glover 
+Park",2003-04-10T00:00:00.000Z
+-76.980347704798206,38.85565772985084,104,nhood_050,Fort Stanton,http://op.dc.gov,"Fort 
+Stanton",2003-04-10T00:00:00.000Z
+-76.997949928927412,38.841077305328575,105,nhood_031,Congress Heights,http://op.dc.gov,"Congress 
+Heights",2003-04-10T00:00:00.000Z
+-76.9956362052841,38.830237415020832,106,nhood_123,Washington Highlands,http://op.dc.gov,"Washington 
+Highlands",2003-04-10T00:00:00.000Z
+-77.009270755979102,38.826952447961752,107,nhood_008,Bellevue,http://op.dc.gov,Bellevue,2003-04-10T00:00:00.000Z
+-76.967660032252937,38.853688057048181,108,nhood_073,Knox Hill/Buena Vista,http://op.dc.gov,"Knox Hill/
+Buena Vista",2003-04-10T00:00:00.000Z
+-76.9729023408822,38.846860131535607,109,nhood_111,Shipley,http://op.dc.gov,Shipley,2003-04-10T00:00:00.000Z
+-76.97964456539421,38.847571455385946,110,nhood_035,Douglass,http://op.dc.gov,Douglass,2003-04-10T00:00:00.000Z
+-76.973925609157433,38.856554245581108,111,nhood_126,Woodland,http://op.dc.gov,Woodland,2003-04-10T00:00:00.000Z
+-76.972213267299779,38.854085123595418,112,nhood_056,Garfield Heights,http://op.dc.gov,"Garfield 
+Heights",2003-04-10T00:00:00.000Z
+-77.000627104076855,38.878384470237691,113,nhood_094,Near Southeast,http://op.dc.gov,"Near 
+Southeast",2003-04-10T00:00:00.000Z
+-76.962818425001132,38.872630406051002,114,nhood_038,Dupont Park,http://op.dc.gov,"Dupont 
+Park",2003-04-10T00:00:00.000Z
+-76.960847206414755,38.875587905394418,115,nhood_120,Twining,http://op.dc.gov,Twining,2003-04-10T00:00:00.000Z
+-76.977451778255784,38.869158496063932,116,nhood_043,Fairlawn,http://op.dc.gov,Fairlawn,2003-04-10T00:00:00.000Z
+-76.953423860542969,38.869560176809458,117,nhood_101,Penn Branch,http://op.dc.gov,"Penn 
+Branch",2003-04-10T00:00:00.000Z
+-76.984677642784945,38.863185708444206,118,nhood_066,Historic Anacostia,http://op.dc.gov,"Historic 
+Anacostia",2003-04-10T00:00:00.000Z
+-77.025340374296476,38.909816310092587,119,nhood_080,Logan Circle/Shaw,http://op.dc.gov,"Logan Circle/
+Shaw",2003-04-10T00:00:00.000Z
+-77.027550110478273,38.917168293762423,120,nhood_023,Cardozo/Shaw,http://op.dc.gov,"Cardozo/
+Shaw",2003-04-10T00:00:00.000Z
+-77.05846164119157,38.946892714520601,121,nhood_045,Forest Hills,http://op.dc.gov,"Forest 
+Hills",2003-04-10T00:00:00.000Z
+-77.084407131154833,38.913247131799515,122,nhood_053,Foxhall Village,http://op.dc.gov,"Foxhall 
+Village",2003-04-10T00:00:00.000Z
+-77.008128086076553,38.94942994289768,123,nhood_051,Fort Totten,http://op.dc.gov,"Fort 
+Totten",2003-04-10T00:00:00.000Z
+-76.93858598308671,38.91067875955148,124,nhood_071,Kenilworth,http://op.dc.gov,Kenilworth,2003-04-10T00:00:00.000Z
+-76.943070394050451,38.905329402302804,125,nhood_039,Eastland Gardens,http://op.dc.gov,"Eastland 
+Gardens",2003-04-10T00:00:00.000Z
+-76.950684584580515,38.886016698773197,126,nhood_047,Fort Dupont,http://op.dc.gov,"Fort 
+Dupont",2003-04-10T00:00:00.000Z
+-77.060753468903698,38.922850003796405,127,nhood_127,Woodland-Normanstone,http://op.dc.gov,"Woodland-
+Normanstone",2003-04-10T00:00:00.000Z
+-77.07007461872719,38.925398759430934,128,nhood_083,Mass. Ave. Heights,http://op.dc.gov,"Mass. Ave. 
+Heights",2003-04-10T00:00:00.000Z
+-77.023100999946379,38.92947296868293,129,nhood_105,Pleasant Plains,http://op.dc.gov,"Pleasant 
+Plains",2003-04-10T00:00:00.000Z
+-76.938202713701713,38.881161503679991,130,nhood_011,Benning Ridge,http://op.dc.gov,"Benning 
+Ridge",2003-04-10T00:00:00.000Z
+-77.022180649949917,38.895370447012162,131,nhood_130,Penn Quarter,http://op.dc.gov,"Penn 
+Quarter",2003-04-10T00:00:00.000Z
